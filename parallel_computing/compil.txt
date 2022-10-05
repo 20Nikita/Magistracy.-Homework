@@ -1,4 +1,4 @@
-cd C:\Users\Nikita\Desktop\Универ\Параллельные и распределенные вычисления
-cd L1
+cd C:\Users\Nikita\Desktop\university\parallel_computing
+cd L2
 nvcc main.cu -o main
 main

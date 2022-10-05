@@ -9,10 +9,10 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/C1/main.exe",
+            "program": "${workspaceFolder}/L2/main.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}/C1",
+            "cwd": "${workspaceFolder}/L2",
             "environment": [],
             "externalConsole": true
         },
