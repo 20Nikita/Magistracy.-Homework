@@ -1,4 +1,0 @@
-cd C:\Users\Nikita\Desktop\Универ\Параллельные и распределенные вычисления
-cd L1
-nvcc main.cu -o main
-main
