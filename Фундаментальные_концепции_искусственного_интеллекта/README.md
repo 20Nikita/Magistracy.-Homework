@@ -2,5 +2,5 @@
 #### 100_Numpy http://bit.do/fVCLb
 #### Лабораторная работа №1 http://bit.do/fVCLe
 #### Лабораторная работа №2 http://bit.do/fVCLg
-#### Лабораторная работа №3 -
+#### Лабораторная работа №3 http://bit.do/fVDjJ
 #### Лабораторная работа №4 http://bit.do/fVDjq
