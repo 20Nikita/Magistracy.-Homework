@@ -1,0 +1,2436 @@
+C:\Users\Admin\Desktop\Универ\DZ\Фундаментальные_концепции_искусственного_интеллекта\Новая папка>mpiexec -np 4 python End_lab.py
+Rank 2 epoch 1/100
+
+----------
+
+T_Loss: 0.9405 Acc: 0.7247
+V_Loss: 0.8671 Acc: 0.7387
+Rank 2 epoch 2/100
+
+----------
+
+T_Loss: 0.8171 Acc: 0.7429
+V_Loss: 0.8425 Acc: 0.7368
+Rank 2 epoch 3/100
+
+----------
+
+T_Loss: 0.7811 Acc: 0.7413
+V_Loss: 0.8260 Acc: 0.7358
+Rank 2 epoch 4/100
+
+----------
+
+T_Loss: 0.7403 Acc: 0.7442
+V_Loss: 0.8197 Acc: 0.7374
+Rank 2 epoch 5/100
+
+----------
+
+T_Loss: 0.7112 Acc: 0.7529
+V_Loss: 0.8345 Acc: 0.7382
+Rank 2 epoch 6/100
+
+----------
+
+T_Loss: 0.6750 Acc: 0.7582
+V_Loss: 0.8363 Acc: 0.7355
+Rank 2 epoch 7/100
+
+----------
+
+T_Loss: 0.6461 Acc: 0.7692
+V_Loss: 0.8279 Acc: 0.7313
+Rank 2 epoch 8/100
+
+----------
+
+T_Loss: 0.6063 Acc: 0.7816
+V_Loss: 0.8813 Acc: 0.7408
+Rank 2 epoch 9/100
+
+----------
+
+T_Loss: 0.5835 Acc: 0.7913
+V_Loss: 0.8980 Acc: 0.7392
+Rank 2 epoch 10/100
+
+----------
+
+T_Loss: 0.5443 Acc: 0.8021
+V_Loss: 0.8826 Acc: 0.7187
+Rank 2 epoch 11/100
+
+----------
+
+T_Loss: 0.5227 Acc: 0.8174
+V_Loss: 0.8979 Acc: 0.7261
+Rank 2 epoch 12/100
+
+----------
+
+T_Loss: 0.4885 Acc: 0.8213
+V_Loss: 0.9228 Acc: 0.7200
+Rank 2 epoch 13/100
+
+----------
+
+T_Loss: 0.4581 Acc: 0.8400
+V_Loss: 0.9431 Acc: 0.7029
+Rank 2 epoch 14/100
+
+----------
+
+T_Loss: 0.4252 Acc: 0.8455
+V_Loss: 1.0192 Acc: 0.7342
+Rank 2 epoch 15/100
+
+----------
+
+T_Loss: 0.4102 Acc: 0.8503
+V_Loss: 0.9928 Acc: 0.7016
+Rank 2 epoch 16/100
+
+----------
+
+T_Loss: 0.3747 Acc: 0.8700
+V_Loss: 1.0546 Acc: 0.6955
+Rank 2 epoch 17/100
+
+----------
+
+T_Loss: 0.3599 Acc: 0.8734
+V_Loss: 1.1063 Acc: 0.7145
+Rank 2 epoch 18/100
+
+----------
+
+T_Loss: 0.3195 Acc: 0.8916
+V_Loss: 1.1060 Acc: 0.7208
+Rank 2 epoch 19/100
+
+----------
+
+T_Loss: 0.3061 Acc: 0.8958
+V_Loss: 1.1615 Acc: 0.7092
+Rank 2 epoch 20/100
+
+----------
+
+T_Loss: 0.2877 Acc: 0.8963
+V_Loss: 1.1877 Acc: 0.7197
+Rank 2 epoch 21/100
+
+----------
+
+T_Loss: 0.2783 Acc: 0.9066
+V_Loss: 1.1677 Acc: 0.6834
+Rank 2 epoch 22/100
+
+----------
+
+T_Loss: 0.2617 Acc: 0.9074
+V_Loss: 1.1934 Acc: 0.6961
+Rank 2 epoch 23/100
+
+----------
+
+T_Loss: 0.2307 Acc: 0.9171
+V_Loss: 1.2238 Acc: 0.7171
+Rank 2 epoch 24/100
+
+----------
+
+T_Loss: 0.2348 Acc: 0.9121
+V_Loss: 1.2636 Acc: 0.6958
+Rank 2 epoch 25/100
+
+----------
+
+T_Loss: 0.2226 Acc: 0.9266
+V_Loss: 1.2744 Acc: 0.7071
+Rank 2 epoch 26/100
+
+----------
+
+T_Loss: 0.1901 Acc: 0.9345
+V_Loss: 1.3364 Acc: 0.7129
+Rank 2 epoch 27/100
+
+----------
+
+T_Loss: 0.1944 Acc: 0.9300
+V_Loss: 1.3509 Acc: 0.6961
+Rank 2 epoch 28/100
+
+----------
+
+T_Loss: 0.1841 Acc: 0.9355
+V_Loss: 1.4232 Acc: 0.7224
+Rank 2 epoch 29/100
+
+----------
+
+T_Loss: 0.1723 Acc: 0.9363
+V_Loss: 1.3922 Acc: 0.6953
+Rank 2 epoch 30/100
+
+----------
+
+T_Loss: 0.1663 Acc: 0.9413
+V_Loss: 1.4351 Acc: 0.7063
+Rank 2 epoch 31/100
+
+----------
+
+T_Loss: 0.1677 Acc: 0.9408
+V_Loss: 1.4170 Acc: 0.7055
+Rank 2 epoch 32/100
+
+----------
+
+T_Loss: 0.1516 Acc: 0.9468
+V_Loss: 1.4811 Acc: 0.7111
+Rank 2 epoch 33/100
+
+----------
+
+T_Loss: 0.1370 Acc: 0.9539
+V_Loss: 1.5190 Acc: 0.7005
+Rank 2 epoch 34/100
+
+----------
+
+T_Loss: 0.1312 Acc: 0.9555
+V_Loss: 1.5154 Acc: 0.6942
+Rank 2 epoch 35/100
+
+----------
+
+T_Loss: 0.1217 Acc: 0.9576
+V_Loss: 1.5353 Acc: 0.7142
+Rank 2 epoch 36/100
+
+----------
+
+T_Loss: 0.1342 Acc: 0.9537
+V_Loss: 1.5851 Acc: 0.7089
+Rank 2 epoch 37/100
+
+----------
+
+T_Loss: 0.1240 Acc: 0.9584
+V_Loss: 1.5110 Acc: 0.7018
+Rank 2 epoch 38/100
+
+----------
+
+T_Loss: 0.1058 Acc: 0.9642
+V_Loss: 1.6154 Acc: 0.6974
+Rank 2 epoch 39/100
+
+----------
+
+T_Loss: 0.1098 Acc: 0.9603
+V_Loss: 1.6025 Acc: 0.7029
+Rank 2 epoch 40/100
+
+----------
+
+T_Loss: 0.0953 Acc: 0.9679
+V_Loss: 1.6240 Acc: 0.7018
+Rank 2 epoch 41/100
+
+----------
+
+T_Loss: 0.0980 Acc: 0.9653
+V_Loss: 1.6748 Acc: 0.7200
+Rank 2 epoch 42/100
+
+----------
+
+T_Loss: 0.0912 Acc: 0.9689
+V_Loss: 1.6805 Acc: 0.7145
+Rank 2 epoch 43/100
+
+----------
+
+T_Loss: 0.0925 Acc: 0.9647
+V_Loss: 1.6992 Acc: 0.7142
+Rank 2 epoch 44/100
+
+----------
+
+T_Loss: 0.0847 Acc: 0.9687
+V_Loss: 1.7057 Acc: 0.7087
+Rank 2 epoch 45/100
+
+----------
+
+T_Loss: 0.0767 Acc: 0.9761
+V_Loss: 1.8231 Acc: 0.7166
+Rank 2 epoch 46/100
+
+----------
+
+T_Loss: 0.0766 Acc: 0.9724
+V_Loss: 1.8748 Acc: 0.7189
+Rank 2 epoch 47/100
+
+----------
+
+T_Loss: 0.0807 Acc: 0.9700
+V_Loss: 1.7932 Acc: 0.7089
+Rank 2 epoch 48/100
+
+----------
+
+T_Loss: 0.0840 Acc: 0.9721
+V_Loss: 1.8321 Acc: 0.7203
+Rank 2 epoch 49/100
+
+----------
+
+T_Loss: 0.0654 Acc: 0.9750
+V_Loss: 1.8419 Acc: 0.7155
+Rank 2 epoch 50/100
+
+----------
+
+T_Loss: 0.0777 Acc: 0.9742
+V_Loss: 1.8484 Acc: 0.7232
+Rank 2 epoch 51/100
+
+----------
+
+T_Loss: 0.0695 Acc: 0.9795
+V_Loss: 1.7874 Acc: 0.7084
+Rank 2 epoch 52/100
+
+----------
+
+T_Loss: 0.0710 Acc: 0.9747
+V_Loss: 1.7991 Acc: 0.7050
+Rank 2 epoch 53/100
+
+----------
+
+T_Loss: 0.0687 Acc: 0.9779
+V_Loss: 1.8714 Acc: 0.7103
+Rank 2 epoch 54/100
+
+----------
+
+T_Loss: 0.0666 Acc: 0.9766
+V_Loss: 1.9471 Acc: 0.7158
+Rank 2 epoch 55/100
+
+----------
+
+T_Loss: 0.0551 Acc: 0.9811
+V_Loss: 1.8789 Acc: 0.7047
+Rank 2 epoch 56/100
+
+----------
+
+T_Loss: 0.0601 Acc: 0.9795
+V_Loss: 1.9344 Acc: 0.7124
+Rank 2 epoch 57/100
+
+----------
+
+T_Loss: 0.0599 Acc: 0.9789
+V_Loss: 1.9434 Acc: 0.6947
+Rank 2 epoch 58/100
+
+----------
+
+T_Loss: 0.0568 Acc: 0.9800
+V_Loss: 1.8973 Acc: 0.7008
+Rank 2 epoch 59/100
+
+----------
+
+T_Loss: 0.0527 Acc: 0.9816
+V_Loss: 1.8944 Acc: 0.6897
+Rank 2 epoch 60/100
+
+----------
+
+T_Loss: 0.0499 Acc: 0.9853
+V_Loss: 1.9126 Acc: 0.7037
+Rank 2 epoch 61/100
+
+----------
+
+T_Loss: 0.0439 Acc: 0.9839
+V_Loss: 1.9254 Acc: 0.7161
+Rank 2 epoch 62/100
+
+----------
+
+T_Loss: 0.0488 Acc: 0.9824
+V_Loss: 1.9448 Acc: 0.6974
+Rank 2 epoch 63/100
+
+----------
+
+T_Loss: 0.0455 Acc: 0.9853
+V_Loss: 1.9711 Acc: 0.7045
+Rank 2 epoch 64/100
+
+----------
+
+T_Loss: 0.0365 Acc: 0.9882
+V_Loss: 1.9789 Acc: 0.7042
+Rank 2 epoch 65/100
+
+----------
+
+T_Loss: 0.0361 Acc: 0.9884
+V_Loss: 2.0440 Acc: 0.7145
+Rank 2 epoch 66/100
+
+----------
+
+T_Loss: 0.0432 Acc: 0.9853
+V_Loss: 2.0407 Acc: 0.7147
+Rank 2 epoch 67/100
+
+----------
+
+T_Loss: 0.0504 Acc: 0.9818
+V_Loss: 2.0094 Acc: 0.6989
+Rank 2 epoch 68/100
+
+----------
+
+T_Loss: 0.0486 Acc: 0.9845
+V_Loss: 2.0724 Acc: 0.7171
+Rank 2 epoch 69/100
+
+----------
+
+T_Loss: 0.0480 Acc: 0.9855
+V_Loss: 2.0509 Acc: 0.6971
+Rank 2 epoch 70/100
+
+----------
+
+T_Loss: 0.0448 Acc: 0.9863
+V_Loss: 2.0535 Acc: 0.7011
+Rank 2 epoch 71/100
+
+----------
+
+T_Loss: 0.0457 Acc: 0.9832
+V_Loss: 2.0944 Acc: 0.7171
+Rank 2 epoch 72/100
+
+----------
+
+T_Loss: 0.0416 Acc: 0.9855
+V_Loss: 2.1402 Acc: 0.7187
+Rank 2 epoch 73/100
+
+----------
+
+T_Loss: 0.0395 Acc: 0.9868
+V_Loss: 2.0858 Acc: 0.7168
+Rank 2 epoch 74/100
+
+----------
+
+T_Loss: 0.0426 Acc: 0.9871
+V_Loss: 2.0701 Acc: 0.7061
+Rank 2 epoch 75/100
+
+----------
+
+T_Loss: 0.0344 Acc: 0.9882
+V_Loss: 2.1316 Acc: 0.7150
+Rank 2 epoch 76/100
+
+----------
+
+T_Loss: 0.0396 Acc: 0.9863
+V_Loss: 2.1278 Acc: 0.7003
+Rank 2 epoch 77/100
+
+----------
+
+T_Loss: 0.0328 Acc: 0.9884
+V_Loss: 2.1428 Acc: 0.6853
+Rank 2 epoch 78/100
+
+----------
+
+T_Loss: 0.0437 Acc: 0.9876
+V_Loss: 2.1524 Acc: 0.7037
+Rank 2 epoch 79/100
+
+----------
+
+T_Loss: 0.0383 Acc: 0.9866
+V_Loss: 2.1706 Acc: 0.7150
+Rank 2 epoch 80/100
+
+----------
+
+T_Loss: 0.0414 Acc: 0.9884
+V_Loss: 2.1913 Acc: 0.7174
+Rank 2 epoch 81/100
+
+----------
+
+T_Loss: 0.0450 Acc: 0.9868
+V_Loss: 2.1792 Acc: 0.7155
+Rank 2 epoch 82/100
+
+----------
+
+T_Loss: 0.0402 Acc: 0.9855
+V_Loss: 2.1826 Acc: 0.7145
+Rank 2 epoch 83/100
+
+----------
+
+T_Loss: 0.0328 Acc: 0.9892
+V_Loss: 2.2132 Acc: 0.7208
+Rank 2 epoch 84/100
+
+----------
+
+T_Loss: 0.0346 Acc: 0.9866
+V_Loss: 2.1258 Acc: 0.7142
+Rank 2 epoch 85/100
+
+----------
+
+T_Loss: 0.0377 Acc: 0.9868
+V_Loss: 2.1279 Acc: 0.7155
+Rank 2 epoch 86/100
+
+----------
+
+T_Loss: 0.0279 Acc: 0.9900
+V_Loss: 2.2086 Acc: 0.7197
+Rank 2 epoch 87/100
+
+----------
+
+T_Loss: 0.0270 Acc: 0.9900
+V_Loss: 2.1491 Acc: 0.7100
+Rank 2 epoch 88/100
+
+----------
+
+T_Loss: 0.0334 Acc: 0.9895
+V_Loss: 2.2295 Acc: 0.7221
+Rank 2 epoch 89/100
+Rank 1 epoch 1/100
+
+----------
+
+T_Loss: 0.9758 Acc: 0.7000
+V_Loss: 0.8765 Acc: 0.7308
+Rank 1 epoch 2/100
+
+----------
+
+T_Loss: 0.8347 Acc: 0.7311
+V_Loss: 0.8357 Acc: 0.7345
+Rank 1 epoch 3/100
+
+----------
+
+T_Loss: 0.7873 Acc: 0.7342
+V_Loss: 0.8337 Acc: 0.7339
+Rank 1 epoch 4/100
+
+----------
+
+T_Loss: 0.7544 Acc: 0.7355
+V_Loss: 0.8267 Acc: 0.7300
+Rank 1 epoch 5/100
+
+----------
+
+T_Loss: 0.7124 Acc: 0.7450
+V_Loss: 0.8341 Acc: 0.7276
+Rank 1 epoch 6/100
+
+----------
+
+T_Loss: 0.6797 Acc: 0.7555
+V_Loss: 0.8319 Acc: 0.7279
+Rank 1 epoch 7/100
+
+----------
+
+T_Loss: 0.6520 Acc: 0.7674
+V_Loss: 0.8350 Acc: 0.7400
+Rank 1 epoch 8/100
+
+----------
+
+T_Loss: 0.6334 Acc: 0.7668
+V_Loss: 0.8368 Acc: 0.7271
+Rank 1 epoch 9/100
+
+----------
+
+T_Loss: 0.5851 Acc: 0.7879
+V_Loss: 0.8405 Acc: 0.7247
+Rank 1 epoch 10/100
+
+----------
+
+T_Loss: 0.5691 Acc: 0.7958
+V_Loss: 0.8620 Acc: 0.7237
+Rank 1 epoch 11/100
+
+----------
+
+T_Loss: 0.5455 Acc: 0.8082
+V_Loss: 0.8820 Acc: 0.7008
+Rank 1 epoch 12/100
+
+----------
+
+T_Loss: 0.5122 Acc: 0.8079
+V_Loss: 0.9389 Acc: 0.7147
+Rank 1 epoch 13/100
+
+----------
+
+T_Loss: 0.4769 Acc: 0.8292
+V_Loss: 0.9172 Acc: 0.7242
+Rank 1 epoch 14/100
+
+----------
+
+T_Loss: 0.4427 Acc: 0.8432
+V_Loss: 0.9593 Acc: 0.6892
+Rank 1 epoch 15/100
+
+----------
+
+T_Loss: 0.4300 Acc: 0.8429
+V_Loss: 0.9878 Acc: 0.6829
+Rank 1 epoch 16/100
+
+----------
+
+T_Loss: 0.3960 Acc: 0.8532
+V_Loss: 1.0207 Acc: 0.7105
+Rank 1 epoch 17/100
+
+----------
+
+T_Loss: 0.3675 Acc: 0.8663
+V_Loss: 1.0320 Acc: 0.7011
+Rank 1 epoch 18/100
+
+----------
+
+T_Loss: 0.3330 Acc: 0.8850
+V_Loss: 1.0616 Acc: 0.6929
+Rank 1 epoch 19/100
+
+----------
+
+T_Loss: 0.3333 Acc: 0.8766
+V_Loss: 1.0992 Acc: 0.7121
+Rank 1 epoch 20/100
+
+----------
+
+T_Loss: 0.3151 Acc: 0.8908
+V_Loss: 1.1329 Acc: 0.6945
+Rank 1 epoch 21/100
+
+----------
+
+T_Loss: 0.2768 Acc: 0.9079
+V_Loss: 1.1983 Acc: 0.7197
+Rank 1 epoch 22/100
+
+----------
+
+T_Loss: 0.2657 Acc: 0.9066
+V_Loss: 1.2044 Acc: 0.6900
+Rank 1 epoch 23/100
+
+----------
+
+T_Loss: 0.2500 Acc: 0.9087
+V_Loss: 1.2153 Acc: 0.6997
+Rank 1 epoch 24/100
+
+----------
+
+T_Loss: 0.2330 Acc: 0.9126
+V_Loss: 1.2525 Acc: 0.6818
+Rank 1 epoch 25/100
+
+----------
+
+T_Loss: 0.2397 Acc: 0.9150
+V_Loss: 1.2516 Acc: 0.7100
+Rank 1 epoch 26/100
+
+----------
+
+T_Loss: 0.2091 Acc: 0.9263
+V_Loss: 1.2674 Acc: 0.7118
+Rank 1 epoch 27/100
+
+----------
+
+T_Loss: 0.2034 Acc: 0.9271
+V_Loss: 1.2777 Acc: 0.7066
+Rank 1 epoch 28/100
+
+----------
+
+T_Loss: 0.2010 Acc: 0.9250
+V_Loss: 1.3303 Acc: 0.7005
+Rank 1 epoch 29/100
+
+----------
+
+T_Loss: 0.1970 Acc: 0.9284
+V_Loss: 1.3377 Acc: 0.6924
+Rank 1 epoch 30/100
+
+----------
+
+T_Loss: 0.1697 Acc: 0.9413
+V_Loss: 1.4440 Acc: 0.7063
+Rank 1 epoch 31/100
+
+----------
+
+T_Loss: 0.1601 Acc: 0.9471
+V_Loss: 1.4392 Acc: 0.7053
+Rank 1 epoch 32/100
+
+----------
+
+T_Loss: 0.1614 Acc: 0.9426
+V_Loss: 1.4220 Acc: 0.6953
+Rank 1 epoch 33/100
+
+----------
+
+T_Loss: 0.1545 Acc: 0.9463
+V_Loss: 1.4901 Acc: 0.7000
+Rank 1 epoch 34/100
+
+----------
+
+T_Loss: 0.1254 Acc: 0.9597
+V_Loss: 1.4597 Acc: 0.6987
+Rank 1 epoch 35/100
+
+----------
+
+T_Loss: 0.1388 Acc: 0.9505
+V_Loss: 1.4854 Acc: 0.7145
+Rank 1 epoch 36/100
+
+----------
+
+T_Loss: 0.1262 Acc: 0.9576
+V_Loss: 1.5265 Acc: 0.7105
+Rank 1 epoch 37/100
+
+----------
+
+T_Loss: 0.1253 Acc: 0.9584
+V_Loss: 1.4782 Acc: 0.7026
+Rank 1 epoch 38/100
+
+----------
+
+T_Loss: 0.1164 Acc: 0.9574
+V_Loss: 1.6083 Acc: 0.7150
+Rank 1 epoch 39/100
+
+----------
+
+T_Loss: 0.1151 Acc: 0.9584
+V_Loss: 1.5582 Acc: 0.7013
+Rank 1 epoch 40/100
+
+----------
+
+T_Loss: 0.1179 Acc: 0.9592
+V_Loss: 1.6149 Acc: 0.7179
+Rank 1 epoch 41/100
+
+----------
+
+T_Loss: 0.1032 Acc: 0.9658
+V_Loss: 1.5873 Acc: 0.7061
+Rank 1 epoch 42/100
+
+----------
+
+T_Loss: 0.1085 Acc: 0.9568
+V_Loss: 1.6405 Acc: 0.7145
+Rank 1 epoch 43/100
+
+----------
+
+T_Loss: 0.0906 Acc: 0.9666
+V_Loss: 1.6379 Acc: 0.7145
+Rank 1 epoch 44/100
+
+----------
+
+T_Loss: 0.0900 Acc: 0.9661
+V_Loss: 1.6473 Acc: 0.7113
+Rank 1 epoch 45/100
+
+----------
+
+T_Loss: 0.0961 Acc: 0.9655
+V_Loss: 1.6506 Acc: 0.6963
+Rank 1 epoch 46/100
+
+----------
+
+T_Loss: 0.0941 Acc: 0.9687
+V_Loss: 1.6236 Acc: 0.7037
+Rank 1 epoch 47/100
+
+----------
+
+T_Loss: 0.0886 Acc: 0.9668
+V_Loss: 1.6621 Acc: 0.7087
+Rank 1 epoch 48/100
+
+----------
+
+T_Loss: 0.0749 Acc: 0.9726
+V_Loss: 1.6801 Acc: 0.7229
+Rank 1 epoch 49/100
+
+----------
+
+T_Loss: 0.0734 Acc: 0.9755
+V_Loss: 1.7155 Acc: 0.7116
+Rank 1 epoch 50/100
+
+----------
+
+T_Loss: 0.0690 Acc: 0.9763
+V_Loss: 1.6864 Acc: 0.7071
+Rank 1 epoch 51/100
+
+----------
+
+T_Loss: 0.0579 Acc: 0.9792
+V_Loss: 1.7468 Acc: 0.7021
+Rank 1 epoch 52/100
+
+----------
+
+T_Loss: 0.0722 Acc: 0.9768
+V_Loss: 1.7236 Acc: 0.7000
+Rank 1 epoch 53/100
+
+----------
+
+T_Loss: 0.0697 Acc: 0.9742
+V_Loss: 1.7487 Acc: 0.7137
+Rank 1 epoch 54/100
+
+----------
+
+T_Loss: 0.0693 Acc: 0.9766
+V_Loss: 1.7351 Acc: 0.7087
+Rank 1 epoch 55/100
+
+----------
+
+T_Loss: 0.0615 Acc: 0.9797
+V_Loss: 1.7879 Acc: 0.7050
+Rank 1 epoch 56/100
+
+----------
+
+T_Loss: 0.0609 Acc: 0.9800
+V_Loss: 1.7339 Acc: 0.7166
+Rank 1 epoch 57/100
+
+----------
+
+T_Loss: 0.0583 Acc: 0.9813
+V_Loss: 1.7898 Acc: 0.7050
+Rank 1 epoch 58/100
+
+----------
+
+T_Loss: 0.0588 Acc: 0.9842
+V_Loss: 1.8366 Acc: 0.7176
+Rank 1 epoch 59/100
+
+----------
+
+T_Loss: 0.0559 Acc: 0.9824
+V_Loss: 1.8085 Acc: 0.7018
+Rank 1 epoch 60/100
+
+----------
+
+T_Loss: 0.0453 Acc: 0.9834
+V_Loss: 1.8426 Acc: 0.7074
+Rank 1 epoch 61/100
+
+----------
+
+T_Loss: 0.0572 Acc: 0.9811
+V_Loss: 1.8369 Acc: 0.7161
+Rank 1 epoch 62/100
+
+----------
+
+T_Loss: 0.0578 Acc: 0.9805
+V_Loss: 1.7704 Acc: 0.7124
+Rank 1 epoch 63/100
+
+----------
+
+T_Loss: 0.0509 Acc: 0.9816
+V_Loss: 1.7906 Acc: 0.7095
+Rank 1 epoch 64/100
+
+----------
+
+T_Loss: 0.0562 Acc: 0.9821
+V_Loss: 1.8870 Acc: 0.7063
+Rank 1 epoch 65/100
+
+----------
+
+T_Loss: 0.0649 Acc: 0.9763
+V_Loss: 1.8873 Acc: 0.7203
+Rank 1 epoch 66/100
+
+----------
+
+T_Loss: 0.0509 Acc: 0.9813
+V_Loss: 1.8912 Acc: 0.7013
+Rank 1 epoch 67/100
+
+----------
+
+T_Loss: 0.0485 Acc: 0.9821
+V_Loss: 1.9002 Acc: 0.7113
+Rank 1 epoch 68/100
+
+----------
+
+T_Loss: 0.0442 Acc: 0.9871
+V_Loss: 1.9014 Acc: 0.7195
+Rank 1 epoch 69/100
+
+----------
+
+T_Loss: 0.0374 Acc: 0.9895
+V_Loss: 1.9129 Acc: 0.7187
+Rank 1 epoch 70/100
+
+----------
+
+T_Loss: 0.0425 Acc: 0.9861
+V_Loss: 1.9055 Acc: 0.7176
+Rank 1 epoch 71/100
+
+----------
+
+T_Loss: 0.0413 Acc: 0.9861
+V_Loss: 1.8764 Acc: 0.7179
+Rank 1 epoch 72/100
+
+----------
+
+T_Loss: 0.0436 Acc: 0.9858
+V_Loss: 1.9127 Acc: 0.7082
+Rank 1 epoch 73/100
+
+----------
+
+T_Loss: 0.0402 Acc: 0.9868
+V_Loss: 1.8897 Acc: 0.7097
+Rank 1 epoch 74/100
+
+----------
+
+T_Loss: 0.0378 Acc: 0.9866
+V_Loss: 1.8592 Acc: 0.7061
+Rank 1 epoch 75/100
+
+----------
+
+T_Loss: 0.0361 Acc: 0.9897
+V_Loss: 2.0018 Acc: 0.7355
+Rank 1 epoch 76/100
+
+----------
+
+T_Loss: 0.0352 Acc: 0.9876
+V_Loss: 2.0013 Acc: 0.7118
+Rank 1 epoch 77/100
+
+----------
+
+T_Loss: 0.0333 Acc: 0.9882
+V_Loss: 2.0844 Acc: 0.7100
+Rank 1 epoch 78/100
+
+----------
+
+T_Loss: 0.0359 Acc: 0.9876
+V_Loss: 2.0330 Acc: 0.6989
+Rank 1 epoch 79/100
+
+----------
+
+T_Loss: 0.0447 Acc: 0.9879
+V_Loss: 2.0599 Acc: 0.7163
+Rank 1 epoch 80/100
+
+----------
+
+T_Loss: 0.0263 Acc: 0.9911
+V_Loss: 2.0422 Acc: 0.7000
+Rank 1 epoch 81/100
+
+----------
+
+T_Loss: 0.0267 Acc: 0.9929
+V_Loss: 2.0924 Acc: 0.7268
+Rank 1 epoch 82/100
+
+----------
+
+T_Loss: 0.0276 Acc: 0.9903
+V_Loss: 2.0080 Acc: 0.7142
+Rank 1 epoch 83/100
+
+----------
+
+T_Loss: 0.0361 Acc: 0.9882
+V_Loss: 2.1059 Acc: 0.7103
+Rank 1 epoch 84/100
+
+----------
+
+T_Loss: 0.0398 Acc: 0.9858
+V_Loss: 2.1601 Acc: 0.7055
+Rank 1 epoch 85/100
+
+----------
+
+T_Loss: 0.0543 Acc: 0.9808
+V_Loss: 2.1442 Acc: 0.7021
+Rank 1 epoch 86/100
+
+----------
+
+T_Loss: 0.0405 Acc: 0.9855
+V_Loss: 2.1162 Acc: 0.7168
+Rank 1 epoch 87/100
+
+----------
+
+T_Loss: 0.0307 Acc: 0.9913
+V_Loss: 2.1001 Acc: 0.7034
+Rank 1 epoch 88/100
+
+----------
+
+T_Loss: 0.0399 Acc: 0.9853
+V_Loss: 2.0129 Acc: 0.7045
+Rank 1 epoch 89/100
+Rank 0 epoch 1/100
+
+----------
+
+T_Loss: 0.9941 Acc: 0.6953
+V_Loss: 0.8736 Acc: 0.7308
+Rank 0 epoch 2/100
+
+----------
+
+T_Loss: 0.8523 Acc: 0.7332
+V_Loss: 0.8491 Acc: 0.7337
+Rank 0 epoch 3/100
+
+----------
+
+T_Loss: 0.8085 Acc: 0.7311
+V_Loss: 0.8258 Acc: 0.7308
+Rank 0 epoch 4/100
+
+----------
+
+T_Loss: 0.7647 Acc: 0.7434
+V_Loss: 0.8210 Acc: 0.7316
+Rank 0 epoch 5/100
+
+----------
+
+T_Loss: 0.7313 Acc: 0.7495
+V_Loss: 0.8141 Acc: 0.7387
+Rank 0 epoch 6/100
+
+----------
+
+T_Loss: 0.6945 Acc: 0.7553
+V_Loss: 0.8278 Acc: 0.7347
+Rank 0 epoch 7/100
+
+----------
+
+T_Loss: 0.6665 Acc: 0.7666
+V_Loss: 0.8365 Acc: 0.7358
+Rank 0 epoch 8/100
+
+----------
+
+T_Loss: 0.6399 Acc: 0.7705
+V_Loss: 0.8328 Acc: 0.7334
+Rank 0 epoch 9/100
+
+----------
+
+T_Loss: 0.5990 Acc: 0.7811
+V_Loss: 0.8543 Acc: 0.7345
+Rank 0 epoch 10/100
+
+----------
+
+T_Loss: 0.5590 Acc: 0.8016
+V_Loss: 0.8621 Acc: 0.7268
+Rank 0 epoch 11/100
+
+----------
+
+T_Loss: 0.5468 Acc: 0.8092
+V_Loss: 0.9136 Acc: 0.7329
+Rank 0 epoch 12/100
+
+----------
+
+T_Loss: 0.4960 Acc: 0.8197
+V_Loss: 0.9165 Acc: 0.7121
+Rank 0 epoch 13/100
+
+----------
+
+T_Loss: 0.4605 Acc: 0.8350
+V_Loss: 0.9731 Acc: 0.7305
+Rank 0 epoch 14/100
+
+----------
+
+T_Loss: 0.4574 Acc: 0.8374
+V_Loss: 0.9812 Acc: 0.7189
+Rank 0 epoch 15/100
+
+----------
+
+T_Loss: 0.4288 Acc: 0.8524
+V_Loss: 1.0298 Acc: 0.7100
+Rank 0 epoch 16/100
+
+----------
+
+T_Loss: 0.4025 Acc: 0.8545
+V_Loss: 1.0475 Acc: 0.7013
+Rank 0 epoch 17/100
+
+----------
+
+T_Loss: 0.3823 Acc: 0.8637
+V_Loss: 1.0564 Acc: 0.7068
+Rank 0 epoch 18/100
+
+----------
+
+T_Loss: 0.3512 Acc: 0.8787
+V_Loss: 1.0866 Acc: 0.6979
+Rank 0 epoch 19/100
+
+----------
+
+T_Loss: 0.3351 Acc: 0.8863
+V_Loss: 1.1151 Acc: 0.7029
+Rank 0 epoch 20/100
+
+----------
+
+T_Loss: 0.3077 Acc: 0.8882
+V_Loss: 1.1449 Acc: 0.7003
+Rank 0 epoch 21/100
+
+----------
+
+T_Loss: 0.2848 Acc: 0.8982
+V_Loss: 1.2031 Acc: 0.7147
+Rank 0 epoch 22/100
+
+----------
+
+T_Loss: 0.2763 Acc: 0.9039
+V_Loss: 1.2311 Acc: 0.7042
+Rank 0 epoch 23/100
+
+----------
+
+T_Loss: 0.2587 Acc: 0.9087
+V_Loss: 1.2446 Acc: 0.7079
+Rank 0 epoch 24/100
+
+----------
+
+T_Loss: 0.2474 Acc: 0.9142
+V_Loss: 1.2811 Acc: 0.6918
+Rank 0 epoch 25/100
+
+----------
+
+T_Loss: 0.2215 Acc: 0.9211
+V_Loss: 1.2793 Acc: 0.7147
+Rank 0 epoch 26/100
+
+----------
+
+T_Loss: 0.2180 Acc: 0.9239
+V_Loss: 1.3385 Acc: 0.7018
+Rank 0 epoch 27/100
+
+----------
+
+T_Loss: 0.1909 Acc: 0.9318
+V_Loss: 1.3677 Acc: 0.7137
+Rank 0 epoch 28/100
+
+----------
+
+T_Loss: 0.1872 Acc: 0.9366
+V_Loss: 1.3796 Acc: 0.7066
+Rank 0 epoch 29/100
+
+----------
+
+T_Loss: 0.1769 Acc: 0.9358
+V_Loss: 1.3975 Acc: 0.6963
+Rank 0 epoch 30/100
+
+----------
+
+T_Loss: 0.1627 Acc: 0.9413
+V_Loss: 1.4142 Acc: 0.7066
+Rank 0 epoch 31/100
+
+----------
+
+T_Loss: 0.1527 Acc: 0.9461
+V_Loss: 1.4410 Acc: 0.7063
+Rank 0 epoch 32/100
+
+----------
+
+T_Loss: 0.1465 Acc: 0.9453
+V_Loss: 1.4624 Acc: 0.6889
+Rank 0 epoch 33/100
+
+----------
+
+T_Loss: 0.1454 Acc: 0.9508
+V_Loss: 1.4710 Acc: 0.6903
+Rank 0 epoch 34/100
+
+----------
+
+T_Loss: 0.1378 Acc: 0.9513
+V_Loss: 1.5333 Acc: 0.7000
+Rank 0 epoch 35/100
+
+----------
+
+T_Loss: 0.1334 Acc: 0.9563
+V_Loss: 1.5768 Acc: 0.7087
+Rank 0 epoch 36/100
+
+----------
+
+T_Loss: 0.1103 Acc: 0.9603
+V_Loss: 1.5635 Acc: 0.6968
+Rank 0 epoch 37/100
+
+----------
+
+T_Loss: 0.1126 Acc: 0.9626
+V_Loss: 1.6074 Acc: 0.7145
+Rank 0 epoch 38/100
+
+----------
+
+T_Loss: 0.1244 Acc: 0.9547
+V_Loss: 1.6372 Acc: 0.7103
+Rank 0 epoch 39/100
+
+----------
+
+T_Loss: 0.1089 Acc: 0.9603
+V_Loss: 1.6916 Acc: 0.7145
+Rank 0 epoch 40/100
+
+----------
+
+T_Loss: 0.1110 Acc: 0.9608
+V_Loss: 1.6997 Acc: 0.7137
+Rank 0 epoch 41/100
+
+----------
+
+T_Loss: 0.1164 Acc: 0.9579
+V_Loss: 1.6418 Acc: 0.6961
+Rank 0 epoch 42/100
+
+----------
+
+T_Loss: 0.0964 Acc: 0.9676
+V_Loss: 1.7011 Acc: 0.7032
+Rank 0 epoch 43/100
+
+----------
+
+T_Loss: 0.0972 Acc: 0.9679
+V_Loss: 1.7170 Acc: 0.7053
+Rank 0 epoch 44/100
+
+----------
+
+T_Loss: 0.0824 Acc: 0.9732
+V_Loss: 1.7190 Acc: 0.7087
+Rank 0 epoch 45/100
+
+----------
+
+T_Loss: 0.0825 Acc: 0.9742
+V_Loss: 1.7663 Acc: 0.7011
+Rank 0 epoch 46/100
+
+----------
+
+T_Loss: 0.0765 Acc: 0.9763
+V_Loss: 1.7593 Acc: 0.7100
+Rank 0 epoch 47/100
+
+----------
+
+T_Loss: 0.0985 Acc: 0.9666
+V_Loss: 1.7632 Acc: 0.6934
+Rank 0 epoch 48/100
+
+----------
+
+T_Loss: 0.0645 Acc: 0.9797
+V_Loss: 1.7982 Acc: 0.6979
+Rank 0 epoch 49/100
+
+----------
+
+T_Loss: 0.0834 Acc: 0.9703
+V_Loss: 1.7910 Acc: 0.7111
+Rank 0 epoch 50/100
+
+----------
+
+T_Loss: 0.0698 Acc: 0.9761
+V_Loss: 1.8115 Acc: 0.7168
+Rank 0 epoch 51/100
+
+----------
+
+T_Loss: 0.0676 Acc: 0.9771
+V_Loss: 1.8039 Acc: 0.7111
+Rank 0 epoch 52/100
+
+----------
+
+T_Loss: 0.0647 Acc: 0.9800
+V_Loss: 1.8177 Acc: 0.7084
+Rank 0 epoch 53/100
+
+----------
+
+T_Loss: 0.0745 Acc: 0.9766
+V_Loss: 1.8238 Acc: 0.7018
+Rank 0 epoch 54/100
+
+----------
+
+T_Loss: 0.0643 Acc: 0.9763
+V_Loss: 1.8849 Acc: 0.7071
+Rank 0 epoch 55/100
+
+----------
+
+T_Loss: 0.0681 Acc: 0.9750
+V_Loss: 1.8450 Acc: 0.7084
+Rank 0 epoch 56/100
+
+----------
+
+T_Loss: 0.0596 Acc: 0.9774
+V_Loss: 1.8202 Acc: 0.6997
+Rank 0 epoch 57/100
+
+----------
+
+T_Loss: 0.0696 Acc: 0.9761
+V_Loss: 1.8989 Acc: 0.7134
+Rank 0 epoch 58/100
+
+----------
+
+T_Loss: 0.0646 Acc: 0.9795
+V_Loss: 1.8672 Acc: 0.7074
+Rank 0 epoch 59/100
+
+----------
+
+T_Loss: 0.0583 Acc: 0.9805
+V_Loss: 1.9341 Acc: 0.7084
+Rank 0 epoch 60/100
+
+----------
+
+T_Loss: 0.0539 Acc: 0.9824
+V_Loss: 1.9323 Acc: 0.7137
+Rank 0 epoch 61/100
+
+----------
+
+T_Loss: 0.0594 Acc: 0.9789
+V_Loss: 1.9318 Acc: 0.7111
+Rank 0 epoch 62/100
+
+----------
+
+T_Loss: 0.0525 Acc: 0.9803
+V_Loss: 1.9263 Acc: 0.7118
+Rank 0 epoch 63/100
+
+----------
+
+T_Loss: 0.0613 Acc: 0.9787
+V_Loss: 1.9669 Acc: 0.7187
+Rank 0 epoch 64/100
+
+----------
+
+T_Loss: 0.0480 Acc: 0.9821
+V_Loss: 1.9684 Acc: 0.7068
+Rank 0 epoch 65/100
+
+----------
+
+T_Loss: 0.0502 Acc: 0.9829
+V_Loss: 1.9893 Acc: 0.7058
+Rank 0 epoch 66/100
+
+----------
+
+T_Loss: 0.0517 Acc: 0.9834
+V_Loss: 1.9595 Acc: 0.7121
+Rank 0 epoch 67/100
+
+----------
+
+T_Loss: 0.0461 Acc: 0.9824
+V_Loss: 2.0079 Acc: 0.7008
+Rank 0 epoch 68/100
+
+----------
+
+T_Loss: 0.0435 Acc: 0.9847
+V_Loss: 2.0759 Acc: 0.7213
+Rank 0 epoch 69/100
+
+----------
+
+T_Loss: 0.0448 Acc: 0.9826
+V_Loss: 2.0908 Acc: 0.7142
+Rank 0 epoch 70/100
+
+----------
+
+T_Loss: 0.0383 Acc: 0.9882
+V_Loss: 2.0271 Acc: 0.7192
+Rank 0 epoch 71/100
+
+----------
+
+T_Loss: 0.0356 Acc: 0.9887
+V_Loss: 2.0096 Acc: 0.7145
+Rank 0 epoch 72/100
+
+----------
+
+T_Loss: 0.0454 Acc: 0.9842
+V_Loss: 2.0981 Acc: 0.7221
+Rank 0 epoch 73/100
+
+----------
+
+T_Loss: 0.0554 Acc: 0.9792
+V_Loss: 2.1089 Acc: 0.7208
+Rank 0 epoch 74/100
+
+----------
+
+T_Loss: 0.0431 Acc: 0.9839
+V_Loss: 2.1112 Acc: 0.7179
+Rank 0 epoch 75/100
+
+----------
+
+T_Loss: 0.0404 Acc: 0.9858
+V_Loss: 2.0553 Acc: 0.7192
+Rank 0 epoch 76/100
+
+----------
+
+T_Loss: 0.0487 Acc: 0.9858
+V_Loss: 1.9492 Acc: 0.7011
+Rank 0 epoch 77/100
+
+----------
+
+T_Loss: 0.0373 Acc: 0.9874
+V_Loss: 2.0408 Acc: 0.7124
+Rank 0 epoch 78/100
+
+----------
+
+T_Loss: 0.0374 Acc: 0.9879
+V_Loss: 2.0434 Acc: 0.7147
+Rank 0 epoch 79/100
+
+----------
+
+T_Loss: 0.0389 Acc: 0.9863
+V_Loss: 2.1646 Acc: 0.7105
+Rank 0 epoch 80/100
+
+----------
+
+T_Loss: 0.0416 Acc: 0.9858
+V_Loss: 2.0906 Acc: 0.7045
+Rank 0 epoch 81/100
+
+----------
+
+T_Loss: 0.0454 Acc: 0.9853
+V_Loss: 2.0403 Acc: 0.7258
+Rank 0 epoch 82/100
+
+----------
+
+T_Loss: 0.0350 Acc: 0.9866
+V_Loss: 2.1002 Acc: 0.7168
+Rank 0 epoch 83/100
+
+----------
+
+T_Loss: 0.0285 Acc: 0.9908
+V_Loss: 2.1084 Acc: 0.7134
+Rank 0 epoch 84/100
+
+----------
+
+T_Loss: 0.0355 Acc: 0.9882
+V_Loss: 2.1587 Acc: 0.7192
+Rank 0 epoch 85/100
+
+----------
+
+T_Loss: 0.0344 Acc: 0.9887
+V_Loss: 2.0880 Acc: 0.7192
+Rank 0 epoch 86/100
+
+----------
+
+T_Loss: 0.0378 Acc: 0.9861
+V_Loss: 2.0691 Acc: 0.7182
+Rank 0 epoch 87/100
+
+----------
+
+T_Loss: 0.0400 Acc: 0.9871
+V_Loss: 2.0926 Acc: 0.7082
+Rank 0 epoch 88/100
+
+----------
+
+T_Loss: 0.0298 Acc: 0.9892
+V_Loss: 2.2437 Acc: 0.7245
+Rank 0 epoch 89/100
+Rank 3 epoch 1/100
+
+----------
+
+T_Loss: 0.9422 Acc: 0.7061
+V_Loss: 0.8561 Acc: 0.7345
+Rank 3 epoch 2/100
+
+----------
+
+T_Loss: 0.8385 Acc: 0.7232
+V_Loss: 0.8400 Acc: 0.7389
+Rank 3 epoch 3/100
+
+----------
+
+T_Loss: 0.7975 Acc: 0.7284
+V_Loss: 0.8188 Acc: 0.7305
+Rank 3 epoch 4/100
+
+----------
+
+T_Loss: 0.7559 Acc: 0.7305
+V_Loss: 0.8229 Acc: 0.7318
+Rank 3 epoch 5/100
+
+----------
+
+T_Loss: 0.7225 Acc: 0.7500
+V_Loss: 0.8308 Acc: 0.7226
+Rank 3 epoch 6/100
+
+----------
+
+T_Loss: 0.6815 Acc: 0.7492
+V_Loss: 0.8248 Acc: 0.7345
+Rank 3 epoch 7/100
+
+----------
+
+T_Loss: 0.6532 Acc: 0.7742
+V_Loss: 0.8385 Acc: 0.7203
+Rank 3 epoch 8/100
+
+----------
+
+T_Loss: 0.6240 Acc: 0.7771
+V_Loss: 0.8359 Acc: 0.7189
+Rank 3 epoch 9/100
+
+----------
+
+T_Loss: 0.5886 Acc: 0.7887
+V_Loss: 0.8538 Acc: 0.7324
+Rank 3 epoch 10/100
+
+----------
+
+T_Loss: 0.5633 Acc: 0.7992
+V_Loss: 0.8700 Acc: 0.7145
+Rank 3 epoch 11/100
+
+----------
+
+T_Loss: 0.5273 Acc: 0.8116
+V_Loss: 0.9062 Acc: 0.7258
+Rank 3 epoch 12/100
+
+----------
+
+T_Loss: 0.5023 Acc: 0.8221
+V_Loss: 0.9095 Acc: 0.7195
+Rank 3 epoch 13/100
+
+----------
+
+T_Loss: 0.4564 Acc: 0.8389
+V_Loss: 0.9294 Acc: 0.7308
+Rank 3 epoch 14/100
+
+----------
+
+T_Loss: 0.4382 Acc: 0.8508
+V_Loss: 0.9524 Acc: 0.7326
+Rank 3 epoch 15/100
+
+----------
+
+T_Loss: 0.4044 Acc: 0.8547
+V_Loss: 1.0001 Acc: 0.6884
+Rank 3 epoch 16/100
+
+----------
+
+T_Loss: 0.3871 Acc: 0.8587
+V_Loss: 1.0187 Acc: 0.7050
+Rank 3 epoch 17/100
+
+----------
+
+T_Loss: 0.3757 Acc: 0.8697
+V_Loss: 1.0237 Acc: 0.7095
+Rank 3 epoch 18/100
+
+----------
+
+T_Loss: 0.3484 Acc: 0.8805
+V_Loss: 1.0796 Acc: 0.7066
+Rank 3 epoch 19/100
+
+----------
+
+T_Loss: 0.3075 Acc: 0.8892
+V_Loss: 1.1404 Acc: 0.7092
+Rank 3 epoch 20/100
+
+----------
+
+T_Loss: 0.3113 Acc: 0.8897
+V_Loss: 1.1468 Acc: 0.7092
+Rank 3 epoch 21/100
+
+----------
+
+T_Loss: 0.2725 Acc: 0.9066
+V_Loss: 1.1786 Acc: 0.7079
+Rank 3 epoch 22/100
+
+----------
+
+T_Loss: 0.2741 Acc: 0.9005
+V_Loss: 1.1893 Acc: 0.6992
+Rank 3 epoch 23/100
+
+----------
+
+T_Loss: 0.2292 Acc: 0.9216
+V_Loss: 1.2406 Acc: 0.6882
+Rank 3 epoch 24/100
+
+----------
+
+T_Loss: 0.2146 Acc: 0.9237
+V_Loss: 1.2636 Acc: 0.6974
+Rank 3 epoch 25/100
+
+----------
+
+T_Loss: 0.2276 Acc: 0.9189
+V_Loss: 1.2705 Acc: 0.7008
+Rank 3 epoch 26/100
+
+----------
+
+T_Loss: 0.2073 Acc: 0.9311
+V_Loss: 1.3533 Acc: 0.6984
+Rank 3 epoch 27/100
+
+----------
+
+T_Loss: 0.1740 Acc: 0.9413
+V_Loss: 1.3134 Acc: 0.7013
+Rank 3 epoch 28/100
+
+----------
+
+T_Loss: 0.2003 Acc: 0.9287
+V_Loss: 1.3191 Acc: 0.7029
+Rank 3 epoch 29/100
+
+----------
+
+T_Loss: 0.1807 Acc: 0.9374
+V_Loss: 1.3731 Acc: 0.7047
+Rank 3 epoch 30/100
+
+----------
+
+T_Loss: 0.1726 Acc: 0.9429
+V_Loss: 1.3530 Acc: 0.6874
+Rank 3 epoch 31/100
+
+----------
+
+T_Loss: 0.1545 Acc: 0.9458
+V_Loss: 1.4212 Acc: 0.6945
+Rank 3 epoch 32/100
+
+----------
+
+T_Loss: 0.1477 Acc: 0.9447
+V_Loss: 1.4142 Acc: 0.6961
+Rank 3 epoch 33/100
+
+----------
+
+T_Loss: 0.1516 Acc: 0.9492
+V_Loss: 1.4131 Acc: 0.6871
+Rank 3 epoch 34/100
+
+----------
+
+T_Loss: 0.1392 Acc: 0.9524
+V_Loss: 1.4268 Acc: 0.7095
+Rank 3 epoch 35/100
+
+----------
+
+T_Loss: 0.1329 Acc: 0.9547
+V_Loss: 1.4396 Acc: 0.6918
+Rank 3 epoch 36/100
+
+----------
+
+T_Loss: 0.1147 Acc: 0.9626
+V_Loss: 1.5466 Acc: 0.7053
+Rank 3 epoch 37/100
+
+----------
+
+T_Loss: 0.1158 Acc: 0.9582
+V_Loss: 1.4973 Acc: 0.7097
+Rank 3 epoch 38/100
+
+----------
+
+T_Loss: 0.0993 Acc: 0.9645
+V_Loss: 1.5267 Acc: 0.6987
+Rank 3 epoch 39/100
+
+----------
+
+T_Loss: 0.1125 Acc: 0.9645
+V_Loss: 1.6242 Acc: 0.7008
+Rank 3 epoch 40/100
+
+----------
+
+T_Loss: 0.0903 Acc: 0.9684
+V_Loss: 1.5542 Acc: 0.7005
+Rank 3 epoch 41/100
+
+----------
+
+T_Loss: 0.0893 Acc: 0.9705
+V_Loss: 1.6295 Acc: 0.7100
+Rank 3 epoch 42/100
+
+----------
+
+T_Loss: 0.0963 Acc: 0.9676
+V_Loss: 1.5610 Acc: 0.7132
+Rank 3 epoch 43/100
+
+----------
+
+T_Loss: 0.0967 Acc: 0.9645
+V_Loss: 1.6507 Acc: 0.7153
+Rank 3 epoch 44/100
+
+----------
+
+T_Loss: 0.0909 Acc: 0.9687
+V_Loss: 1.5806 Acc: 0.7000
+Rank 3 epoch 45/100
+
+----------
+
+T_Loss: 0.0800 Acc: 0.9729
+V_Loss: 1.6314 Acc: 0.7126
+Rank 3 epoch 46/100
+
+----------
+
+T_Loss: 0.0791 Acc: 0.9739
+V_Loss: 1.6978 Acc: 0.7061
+Rank 3 epoch 47/100
+
+----------
+
+T_Loss: 0.0776 Acc: 0.9732
+V_Loss: 1.7137 Acc: 0.7087
+Rank 3 epoch 48/100
+
+----------
+
+T_Loss: 0.0861 Acc: 0.9703
+V_Loss: 1.7222 Acc: 0.7134
+Rank 3 epoch 49/100
+
+----------
+
+T_Loss: 0.0758 Acc: 0.9732
+V_Loss: 1.7183 Acc: 0.7079
+Rank 3 epoch 50/100
+
+----------
+
+T_Loss: 0.0802 Acc: 0.9747
+V_Loss: 1.6447 Acc: 0.7005
+Rank 3 epoch 51/100
+
+----------
+
+T_Loss: 0.0749 Acc: 0.9745
+V_Loss: 1.7477 Acc: 0.7121
+Rank 3 epoch 52/100
+
+----------
+
+T_Loss: 0.0772 Acc: 0.9737
+V_Loss: 1.7163 Acc: 0.7100
+Rank 3 epoch 53/100
+
+----------
+
+T_Loss: 0.0712 Acc: 0.9755
+V_Loss: 1.8478 Acc: 0.7116
+Rank 3 epoch 54/100
+
+----------
+
+T_Loss: 0.0628 Acc: 0.9808
+V_Loss: 1.7384 Acc: 0.7071
+Rank 3 epoch 55/100
+
+----------
+
+T_Loss: 0.0735 Acc: 0.9734
+V_Loss: 1.8392 Acc: 0.7074
+Rank 3 epoch 56/100
+
+----------
+
+T_Loss: 0.0597 Acc: 0.9811
+V_Loss: 1.7602 Acc: 0.7161
+Rank 3 epoch 57/100
+
+----------
+
+T_Loss: 0.0686 Acc: 0.9739
+V_Loss: 1.8216 Acc: 0.7087
+Rank 3 epoch 58/100
+
+----------
+
+T_Loss: 0.0657 Acc: 0.9734
+V_Loss: 1.8665 Acc: 0.7161
+Rank 3 epoch 59/100
+
+----------
+
+T_Loss: 0.0536 Acc: 0.9839
+V_Loss: 1.7384 Acc: 0.6947
+Rank 3 epoch 60/100
+
+----------
+
+T_Loss: 0.0484 Acc: 0.9829
+V_Loss: 1.7966 Acc: 0.7050
+Rank 3 epoch 61/100
+
+----------
+
+T_Loss: 0.0474 Acc: 0.9834
+V_Loss: 1.8399 Acc: 0.7045
+Rank 3 epoch 62/100
+
+----------
+
+T_Loss: 0.0429 Acc: 0.9845
+V_Loss: 1.8365 Acc: 0.7003
+Rank 3 epoch 63/100
+
+----------
+
+T_Loss: 0.0628 Acc: 0.9795
+V_Loss: 1.8458 Acc: 0.7116
+Rank 3 epoch 64/100
+
+----------
+
+T_Loss: 0.0498 Acc: 0.9829
+V_Loss: 1.8713 Acc: 0.7097
+Rank 3 epoch 65/100
+
+----------
+
+T_Loss: 0.0423 Acc: 0.9834
+V_Loss: 1.8814 Acc: 0.7089
+Rank 3 epoch 66/100
+
+----------
+
+T_Loss: 0.0436 Acc: 0.9863
+V_Loss: 1.8696 Acc: 0.7108
+Rank 3 epoch 67/100
+
+----------
+
+T_Loss: 0.0500 Acc: 0.9811
+V_Loss: 1.8799 Acc: 0.7100
+Rank 3 epoch 68/100
+
+----------
+
+T_Loss: 0.0365 Acc: 0.9889
+V_Loss: 1.9424 Acc: 0.7134
+Rank 3 epoch 69/100
+
+----------
+
+T_Loss: 0.0353 Acc: 0.9868
+V_Loss: 1.9409 Acc: 0.7174
+Rank 3 epoch 70/100
+
+----------
+
+T_Loss: 0.0471 Acc: 0.9837
+V_Loss: 1.9368 Acc: 0.7092
+Rank 3 epoch 71/100
+
+----------
+
+T_Loss: 0.0390 Acc: 0.9850
+V_Loss: 2.0164 Acc: 0.7113
+Rank 3 epoch 72/100
+
+----------
+
+T_Loss: 0.0460 Acc: 0.9829
+V_Loss: 2.0542 Acc: 0.7216
+Rank 3 epoch 73/100
+
+----------
+
+T_Loss: 0.0419 Acc: 0.9871
+V_Loss: 1.9468 Acc: 0.7008
+Rank 3 epoch 74/100
+
+----------
+
+T_Loss: 0.0433 Acc: 0.9834
+V_Loss: 2.0417 Acc: 0.7161
+Rank 3 epoch 75/100
+
+----------
+
+T_Loss: 0.0533 Acc: 0.9808
+V_Loss: 2.0001 Acc: 0.7024
+Rank 3 epoch 76/100
+
+----------
+
+T_Loss: 0.0486 Acc: 0.9845
+V_Loss: 2.0788 Acc: 0.7134
+Rank 3 epoch 77/100
+
+----------
+
+T_Loss: 0.0418 Acc: 0.9847
+V_Loss: 2.0435 Acc: 0.7082
+Rank 3 epoch 78/100
+
+----------
+
+T_Loss: 0.0427 Acc: 0.9832
+V_Loss: 2.0726 Acc: 0.7111
+Rank 3 epoch 79/100
+
+----------
+
+T_Loss: 0.0457 Acc: 0.9855
+V_Loss: 2.1154 Acc: 0.7245
+Rank 3 epoch 80/100
+
+----------
+
+T_Loss: 0.0359 Acc: 0.9892
+V_Loss: 2.0957 Acc: 0.7221
+Rank 3 epoch 81/100
+
+----------
+
+T_Loss: 0.0413 Acc: 0.9847
+V_Loss: 2.0216 Acc: 0.7084
+Rank 3 epoch 82/100
+
+----------
+
+T_Loss: 0.0320 Acc: 0.9903
+V_Loss: 2.0524 Acc: 0.7163
+Rank 3 epoch 83/100
+
+----------
+
+T_Loss: 0.0357 Acc: 0.9874
+V_Loss: 2.0938 Acc: 0.7129
+Rank 3 epoch 84/100
+
+----------
+
+T_Loss: 0.0325 Acc: 0.9866
+V_Loss: 2.1058 Acc: 0.7076
+Rank 3 epoch 85/100
+
+----------
+
+T_Loss: 0.0409 Acc: 0.9866
+V_Loss: 2.1235 Acc: 0.7218
+Rank 3 epoch 86/100
+
+----------
+
+T_Loss: 0.0477 Acc: 0.9826
+V_Loss: 2.0529 Acc: 0.7158
+Rank 3 epoch 87/100
+
+----------
+
+T_Loss: 0.0437 Acc: 0.9858
+V_Loss: 2.0737 Acc: 0.7229
+Rank 3 epoch 88/100
+
+----------
+
+T_Loss: 0.0296 Acc: 0.9889
+V_Loss: 2.0538 Acc: 0.7224
+Rank 3 epoch 89/100
+
+----------
+
+T_Loss: 0.0337 Acc: 0.9868
+V_Loss: 2.1094 Acc: 0.7095
+Rank 1 epoch 90/100
+
+----------
+
+T_Loss: 0.0416 Acc: 0.9853
+V_Loss: 2.0708 Acc: 0.6926
+Rank 1 epoch 91/100
+
+----------
+
+T_Loss: 0.0244 Acc: 0.9913
+V_Loss: 2.0505 Acc: 0.7097
+Rank 1 epoch 92/100
+
+----------
+
+T_Loss: 0.0281 Acc: 0.9913
+V_Loss: 2.0824 Acc: 0.7187
+Rank 1 epoch 93/100
+
+----------
+
+T_Loss: 0.0273 Acc: 0.9932
+V_Loss: 2.1281 Acc: 0.6961
+Rank 1 epoch 94/100
+
+----------
+
+T_Loss: 0.0263 Acc: 0.9918
+V_Loss: 2.1828 Acc: 0.7192
+Rank 1 epoch 95/100
+
+----------
+
+T_Loss: 0.0289 Acc: 0.9887
+V_Loss: 2.2391 Acc: 0.7208
+Rank 1 epoch 96/100
+
+----------
+
+T_Loss: 0.0327 Acc: 0.9892
+V_Loss: 2.0943 Acc: 0.7045
+Rank 1 epoch 97/100
+
+----------
+
+T_Loss: 0.0317 Acc: 0.9889
+V_Loss: 2.1625 Acc: 0.7155
+Rank 1 epoch 98/100
+
+----------
+
+T_Loss: 0.0279 Acc: 0.9908
+V_Loss: 2.1238 Acc: 0.7176
+Rank 1 epoch 99/100
+
+----------
+
+T_Loss: 0.0279 Acc: 0.9900
+V_Loss: 2.0742 Acc: 0.7066
+Rank 1 epoch 100/100
+
+----------
+
+T_Loss: 0.0298 Acc: 0.9921
+V_Loss: 2.2335 Acc: 0.7289
+T_Loss: None,  Acc: 0.7224
+
+
+
+
+----------
+
+T_Loss: 0.0485 Acc: 0.9837
+V_Loss: 2.2587 Acc: 0.7171
+Rank 2 epoch 90/100
+
+----------
+
+T_Loss: 0.0377 Acc: 0.9855
+V_Loss: 2.1411 Acc: 0.7203
+Rank 2 epoch 91/100
+
+----------
+
+T_Loss: 0.0259 Acc: 0.9916
+V_Loss: 2.1284 Acc: 0.7216
+Rank 2 epoch 92/100
+
+----------
+
+T_Loss: 0.0314 Acc: 0.9895
+V_Loss: 2.1584 Acc: 0.7213
+Rank 2 epoch 93/100
+
+----------
+
+T_Loss: 0.0368 Acc: 0.9882
+V_Loss: 2.1819 Acc: 0.7061
+Rank 2 epoch 94/100
+
+----------
+
+T_Loss: 0.0405 Acc: 0.9879
+V_Loss: 2.2210 Acc: 0.7118
+Rank 2 epoch 95/100
+
+----------
+
+T_Loss: 0.0359 Acc: 0.9882
+V_Loss: 2.2425 Acc: 0.7139
+Rank 2 epoch 96/100
+
+----------
+
+T_Loss: 0.0256 Acc: 0.9905
+V_Loss: 2.2657 Acc: 0.7168
+Rank 2 epoch 97/100
+
+----------
+
+T_Loss: 0.0289 Acc: 0.9913
+V_Loss: 2.2419 Acc: 0.7237
+Rank 2 epoch 98/100
+
+----------
+
+T_Loss: 0.0297 Acc: 0.9887
+V_Loss: 2.2318 Acc: 0.7050
+Rank 2 epoch 99/100
+
+----------
+
+T_Loss: 0.0230 Acc: 0.9911
+V_Loss: 2.3428 Acc: 0.7208
+Rank 2 epoch 100/100
+
+----------
+
+T_Loss: 0.0199 Acc: 0.9929
+V_Loss: 2.3803 Acc: 0.7245
+T_Loss: None,  Acc: 0.7321
+
+
+
+
+----------
+
+T_Loss: 0.0327 Acc: 0.9889
+V_Loss: 2.1057 Acc: 0.7221
+Rank 3 epoch 90/100
+
+----------
+
+T_Loss: 0.0408 Acc: 0.9853
+V_Loss: 2.1018 Acc: 0.7097
+Rank 3 epoch 91/100
+
+----------
+
+T_Loss: 0.0345 Acc: 0.9871
+V_Loss: 2.1056 Acc: 0.7126
+Rank 3 epoch 92/100
+
+----------
+
+T_Loss: 0.0307 Acc: 0.9905
+V_Loss: 2.0990 Acc: 0.7174
+Rank 3 epoch 93/100
+
+----------
+
+T_Loss: 0.0381 Acc: 0.9889
+V_Loss: 2.0341 Acc: 0.7032
+Rank 3 epoch 94/100
+
+----------
+
+T_Loss: 0.0407 Acc: 0.9882
+V_Loss: 2.0362 Acc: 0.7116
+Rank 3 epoch 95/100
+
+----------
+
+T_Loss: 0.0276 Acc: 0.9921
+V_Loss: 2.0238 Acc: 0.7239
+Rank 3 epoch 96/100
+
+----------
+
+T_Loss: 0.0279 Acc: 0.9908
+V_Loss: 2.0629 Acc: 0.7221
+Rank 3 epoch 97/100
+
+----------
+
+T_Loss: 0.0296 Acc: 0.9913
+V_Loss: 2.0268 Acc: 0.7205
+Rank 3 epoch 98/100
+
+----------
+
+T_Loss: 0.0274 Acc: 0.9911
+V_Loss: 2.0896 Acc: 0.7224
+Rank 3 epoch 99/100
+
+----------
+
+T_Loss: 0.0305 Acc: 0.9882
+V_Loss: 2.0655 Acc: 0.7037
+Rank 3 epoch 100/100
+
+----------
+
+T_Loss: 0.0351 Acc: 0.9887
+V_Loss: 2.0771 Acc: 0.7092
+T_Loss: None,  Acc: 0.7300
+
+
+
+
+----------
+
+T_Loss: 0.0394 Acc: 0.9868
+V_Loss: 2.1329 Acc: 0.7142
+Rank 0 epoch 90/100
+
+----------
+
+T_Loss: 0.0483 Acc: 0.9821
+V_Loss: 2.1215 Acc: 0.7121
+Rank 0 epoch 91/100
+
+----------
+
+T_Loss: 0.0291 Acc: 0.9895
+V_Loss: 2.2489 Acc: 0.7158
+Rank 0 epoch 92/100
+
+----------
+
+T_Loss: 0.0330 Acc: 0.9871
+V_Loss: 2.3079 Acc: 0.7113
+Rank 0 epoch 93/100
+
+----------
+
+T_Loss: 0.0275 Acc: 0.9905
+V_Loss: 2.3640 Acc: 0.7076
+Rank 0 epoch 94/100
+
+----------
+
+T_Loss: 0.0308 Acc: 0.9879
+V_Loss: 2.2693 Acc: 0.7089
+Rank 0 epoch 95/100
+
+----------
+
+T_Loss: 0.0282 Acc: 0.9908
+V_Loss: 2.2912 Acc: 0.7142
+Rank 0 epoch 96/100
+
+----------
+
+T_Loss: 0.0400 Acc: 0.9874
+V_Loss: 2.3078 Acc: 0.7092
+Rank 0 epoch 97/100
+
+----------
+
+T_Loss: 0.0376 Acc: 0.9882
+V_Loss: 2.2870 Acc: 0.7189
+Rank 0 epoch 98/100
+
+----------
+
+T_Loss: 0.0286 Acc: 0.9908
+V_Loss: 2.3140 Acc: 0.7179
+Rank 0 epoch 99/100
+
+----------
+
+T_Loss: 0.0245 Acc: 0.9934
+V_Loss: 2.2801 Acc: 0.7137
+Rank 0 epoch 100/100
+
+----------
+
+T_Loss: 0.0301 Acc: 0.9911
+V_Loss: 2.2976 Acc: 0.7184
+T_Loss: None,  Acc: 0.7337
+
+
+
+----------
+
+General Acc: 0.7376
+
+--------------------------------------------------
+
+Rank 0 epoch 100/100
+T_Loss: None,  Acc: 0.7337
+
+Rank 1 epoch 100/100
+T_Loss: None,  Acc: 0.7224
+
+Rank 2 epoch 100/100
+T_Loss: None,  Acc: 0.7321
+
+Rank 3 epoch 100/100
+T_Loss: None,  Acc: 0.7300
+
+General Acc: 0.7376
