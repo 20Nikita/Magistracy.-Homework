@@ -11,7 +11,8 @@
 /[Mm]emoryCaptures/
 /[Uu]serSettings/
 *data/
-
+*__pycache__/
+*/yolo_v3/
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
