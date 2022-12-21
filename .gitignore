@@ -13,6 +13,8 @@
 *data/
 *__pycache__/
 */yolo_v3/
+*/HeadPoseEstimation-WHENet/
+*/Exp_1/
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
